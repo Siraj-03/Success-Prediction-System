@@ -17,10 +17,12 @@ Long Short-Term Memory (LSTM)
 CNN-LSTM Hybrid
 Explainable AI using SHAP and LIME for model interpretability.
 Interactive Streamlit web application for real-time predictions.
+
 📊 Results
 Trained and evaluated models on a dataset of 923 startups with engineered business and funding-related features.
 Achieved 86.9% Accuracy and 0.928 ROC-AUC using the CNN-LSTM Hybrid model.
 Identified key success factors including funding rounds, investor strength, milestones achieved, and startup relationships.
+
 🛠️ Tech Stack
 Programming Language: Python
 Data Processing: Pandas, NumPy
@@ -30,6 +32,7 @@ Deep Learning: TensorFlow, Keras
 Explainable AI: SHAP, LIME
 Deployment: Streamlit
 Class Balancing: SMOTE
+
 🔍 Project Workflow
 Data Collection & Cleaning
 Exploratory Data Analysis (EDA)
@@ -40,6 +43,7 @@ Deep Learning Model Development
 Explainable AI Analysis
 Model Evaluation & Comparison
 Streamlit Deployment
+
 💡 Business Impact
 
 This solution helps investors, entrepreneurs, and analysts make data-driven decisions by predicting startup outcomes and providing interpretable explanations behind each prediction.
