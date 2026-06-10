@@ -1,0 +1,26 @@
+
+╔══════════════════════════════════════════════════════╗
+║         EDA SUMMARY REPORT — STARTUP SUCCESS         ║
+╠══════════════════════════════════════════════════════╣
+║ Total Startups Analyzed  :    778                    ║
+║ Features Available       :     43                    ║
+║ Acquired (Success)       :    477                    ║
+║ Closed (Failure)         :    301                    ║
+║ Class Balance Ratio      :  61.3%                    ║
+╠══════════════════════════════════════════════════════╣
+║ TOP PREDICTIVE FEATURES (from correlation):          ║
+║  1. funding_rounds — more rounds = higher success    ║
+║  2. investor_strength — VC/Angel backing matters     ║
+║  3. log_funding — higher funding = better odds       ║
+║  4. milestones — execution pace is key               ║
+║  5. relationships — network size predicts success    ║
+╠══════════════════════════════════════════════════════╣
+║ KEY INSIGHTS DISCOVERED:                             ║
+║  • California startups dominate in volume            ║
+║  • Round B/C funding is a strong success signal      ║
+║  • Startups with 3+ milestones succeed far more      ║
+║  • Enterprise & Biotech have highest success rates   ║
+║  • Early funding (within 2 yrs) = higher success     ║
+╠══════════════════════════════════════════════════════╣
+║ CHARTS SAVED: 11 plots to outputs/plots/             ║
+╚══════════════════════════════════════════════════════╝

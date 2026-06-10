@@ -1,0 +1,6 @@
+{
+  "model": "ANN",
+  "accuracy": 0.7853,
+  "roc_auc": 0.8803,
+  "epochs_trained": 47
+}
